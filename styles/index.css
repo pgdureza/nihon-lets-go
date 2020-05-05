@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-700;
+}
+
+.stamp {
+  -webkit-mask-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/8399/grunge.png');
+  -webkit-mask-size: 944px 604px;
+  -webkit-mask-position: 2rem 3rem;
+}
+
+.pulldown {
+  transition: transform 0.2s;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  animation: spin 1.1s infinite linear;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
