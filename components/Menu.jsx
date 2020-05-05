@@ -1,9 +1,9 @@
-import React, { useContext } from 'react'
-import { ControlsContext } from './Controls'
+import React from 'react'
+import { MenuControlsContext } from './MenuControls'
 import { AiFillEye, AiFillCaretRight, AiFillCaretLeft } from 'react-icons/ai'
 
 const Menu = () => {
-  const { showAnswer, hideAnswer, show, next, prev } = useContext(ControlsContext)
+  const { showAnswer, hideAnswer, show, next, prev } = React.useContext(MenuControlsContext)
   return (
     <div className="absolute bottom-0 w-full text-white text-4xl flex justify-center items-center h-24">
       <div className="w-1/3 flex justify-center">

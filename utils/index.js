@@ -1,6 +1,6 @@
 const _ = require('lodash')
 
-const getKana = (kana, filter) => {
+const randomizeKana = (kana, filter) => {
   if (!filter) {
     return _.sampleSize(kana, kana.length)
   }
@@ -13,4 +13,4 @@ const getKana = (kana, filter) => {
   return _.sampleSize(filteredList, filteredList.length)
 }
 
-export { getKana }
+export { randomizeKana }

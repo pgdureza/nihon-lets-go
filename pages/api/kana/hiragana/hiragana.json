@@ -220,16 +220,6 @@
     "romanji": "wa"
   },
   {
-    "char_id": "wi",
-    "kana": "ゐ",
-    "romanji": "wi"
-  },
-  {
-    "char_id": "we",
-    "kana": "ゑ",
-    "romanji": "we"
-  },
-  {
     "char_id": "wo",
     "kana": "を",
     "romanji": "wo"
@@ -363,11 +353,6 @@
     "char_id": "po",
     "kana": "ぽ",
     "romanji": "po"
-  },
-  {
-    "char_id": "vu",
-    "kana": "ゔ",
-    "romanji": "vu"
   },
   {
     "char_id": "kya",

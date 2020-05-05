@@ -13,7 +13,7 @@ body {
 }
 
 .pulldown {
-  transition: transform 0.2s;
+  transition: transform 0.1s;
 }
 
 @keyframes spin {
