@@ -7,11 +7,11 @@ const NavItem = ({ path, children }) => {
   const routerPath = router.asPath
   const isActive = routerPath === path
   return (
-    <span className={`p-5 w-1/2 text-center ${isActive && 'text-red-500'}`}>
+    <span className={`p-4 text-center ${isActive && 'text-red-500'}`}>
       {isActive ? (
         <span>{children}</span>
       ) : (
-        <Link href="/kana" as={path}>
+        <Link href={path}>
           <a>{children}</a>
         </Link>
       )}

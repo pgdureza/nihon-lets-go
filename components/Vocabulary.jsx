@@ -6,16 +6,17 @@ import Nav from './Nav'
 import Menu from './Menu'
 import Stamp from './Stamp'
 
-const Kana = () => {
+const Vocabulary = () => {
   const { show, character } = React.useContext(MenuControlsContext)
   return (
     <div className="relative h-screen w-screen">
       <Answer>
-        <span className="text-4xl uppercase">{character.romanji}</span>
+        <div className="text-3xl uppercase">{character.romanji}</div>
+        <div className="text-xl text-crimson-500 lowercase">{character.meaning}</div>
       </Answer>
       <Pulldown show={show}>
         <Stamp key={character.romanji}>
-          <span className="text-6xl">{character.kana}</span>
+          <span className="text-4xl">{character.kana}</span>
         </Stamp>
       </Pulldown>
       <Nav />
@@ -24,4 +25,4 @@ const Kana = () => {
   )
 }
 
-export default Kana
+export default Vocabulary

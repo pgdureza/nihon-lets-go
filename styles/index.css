@@ -25,6 +25,11 @@ body {
   }
 }
 
+.nolongpress {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+}
+
 .spinner {
   animation: spin 1.1s infinite linear;
 }

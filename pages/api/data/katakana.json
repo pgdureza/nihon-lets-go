@@ -1,541 +1,541 @@
 [
   {
-    "char_id": "a",
+    "id": "a",
     "kana": "ア",
     "romanji": "a"
   },
   {
-    "char_id": "i",
+    "id": "i",
     "kana": "イ",
     "romanji": "i"
   },
   {
-    "char_id": "u",
+    "id": "u",
     "kana": "ウ",
     "romanji": "u"
   },
   {
-    "char_id": "e",
+    "id": "e",
     "kana": "エ",
     "romanji": "e"
   },
   {
-    "char_id": "o",
+    "id": "o",
     "kana": "オ",
     "romanji": "o"
   },
   {
-    "char_id": "ka",
+    "id": "ka",
     "kana": "カ",
     "romanji": "ka"
   },
   {
-    "char_id": "ki",
+    "id": "ki",
     "kana": "キ",
     "romanji": "ki"
   },
   {
-    "char_id": "ku",
+    "id": "ku",
     "kana": "ク",
     "romanji": "ku"
   },
   {
-    "char_id": "ke",
+    "id": "ke",
     "kana": "ケ",
     "romanji": "ke"
   },
   {
-    "char_id": "ko",
+    "id": "ko",
     "kana": "コ",
     "romanji": "ko"
   },
   {
-    "char_id": "sa",
+    "id": "sa",
     "kana": "サ",
     "romanji": "sa"
   },
   {
-    "char_id": "si",
+    "id": "si",
     "kana": "シ",
     "romanji": "shi"
   },
   {
-    "char_id": "su",
+    "id": "su",
     "kana": "ス",
     "romanji": "su"
   },
   {
-    "char_id": "se",
+    "id": "se",
     "kana": "セ",
     "romanji": "se"
   },
   {
-    "char_id": "so",
+    "id": "so",
     "kana": "ソ",
     "romanji": "so"
   },
   {
-    "char_id": "ta",
+    "id": "ta",
     "kana": "タ",
     "romanji": "ta"
   },
   {
-    "char_id": "ti",
+    "id": "ti",
     "kana": "チ",
     "romanji": "chi"
   },
   {
-    "char_id": "tu",
+    "id": "tu",
     "kana": "ツ",
     "romanji": "tsu"
   },
   {
-    "char_id": "te",
+    "id": "te",
     "kana": "テ",
     "romanji": "te"
   },
   {
-    "char_id": "to",
+    "id": "to",
     "kana": "ト",
     "romanji": "to"
   },
   {
-    "char_id": "na",
+    "id": "na",
     "kana": "ナ",
     "romanji": "na"
   },
   {
-    "char_id": "ni",
+    "id": "ni",
     "kana": "ニ",
     "romanji": "ni"
   },
   {
-    "char_id": "nu",
+    "id": "nu",
     "kana": "ヌ",
     "romanji": "nu"
   },
   {
-    "char_id": "ne",
+    "id": "ne",
     "kana": "ネ",
     "romanji": "ne"
   },
   {
-    "char_id": "no",
+    "id": "no",
     "kana": "ノ",
     "romanji": "no"
   },
   {
-    "char_id": "ha",
+    "id": "ha",
     "kana": "ハ",
     "romanji": "ha"
   },
   {
-    "char_id": "hi",
+    "id": "hi",
     "kana": "ヒ",
     "romanji": "hi"
   },
   {
-    "char_id": "hu",
+    "id": "hu",
     "kana": "フ",
     "romanji": "fu"
   },
   {
-    "char_id": "he",
+    "id": "he",
     "kana": "ヘ",
     "romanji": "he"
   },
   {
-    "char_id": "ho",
+    "id": "ho",
     "kana": "ホ",
     "romanji": "ho"
   },
   {
-    "char_id": "ma",
+    "id": "ma",
     "kana": "マ",
     "romanji": "ma"
   },
   {
-    "char_id": "mi",
+    "id": "mi",
     "kana": "ミ",
     "romanji": "mi"
   },
   {
-    "char_id": "mu",
+    "id": "mu",
     "kana": "ム",
     "romanji": "mu"
   },
   {
-    "char_id": "me",
+    "id": "me",
     "kana": "メ",
     "romanji": "me"
   },
   {
-    "char_id": "mo",
+    "id": "mo",
     "kana": "モ",
     "romanji": "mo"
   },
   {
-    "char_id": "ya",
+    "id": "ya",
     "kana": "ヤ",
     "romanji": "ya"
   },
   {
-    "char_id": "yu",
+    "id": "yu",
     "kana": "ユ",
     "romanji": "yu"
   },
   {
-    "char_id": "yo",
+    "id": "yo",
     "kana": "ヨ",
     "romanji": "yo"
   },
   {
-    "char_id": "ra",
+    "id": "ra",
     "kana": "ラ",
     "romanji": "ra"
   },
   {
-    "char_id": "ri",
+    "id": "ri",
     "kana": "リ",
     "romanji": "ri"
   },
   {
-    "char_id": "ru",
+    "id": "ru",
     "kana": "ル",
     "romanji": "ru"
   },
   {
-    "char_id": "re",
+    "id": "re",
     "kana": "レ",
     "romanji": "re"
   },
   {
-    "char_id": "ro",
+    "id": "ro",
     "kana": "ロ",
     "romanji": "ro"
   },
   {
-    "char_id": "wa",
+    "id": "wa",
     "kana": "ワ",
     "romanji": "wa"
   },
   {
-    "char_id": "wo",
+    "id": "wo",
     "kana": "ヲ",
     "romanji": "wo"
   },
   {
-    "char_id": "-n",
+    "id": "-n",
     "kana": "ン",
     "romanji": "n"
   },
   {
-    "char_id": "ga",
+    "id": "ga",
     "kana": "ガ",
     "romanji": "ga"
   },
   {
-    "char_id": "gi",
+    "id": "gi",
     "kana": "ギ",
     "romanji": "gi"
   },
   {
-    "char_id": "gu",
+    "id": "gu",
     "kana": "グ",
     "romanji": "gu"
   },
   {
-    "char_id": "ge",
+    "id": "ge",
     "kana": "ゲ",
     "romanji": "ge"
   },
   {
-    "char_id": "go",
+    "id": "go",
     "kana": "ゴ",
     "romanji": "go"
   },
   {
-    "char_id": "za",
+    "id": "za",
     "kana": "ザ",
     "romanji": "za"
   },
   {
-    "char_id": "zi",
+    "id": "zi",
     "kana": "ジ",
     "romanji": "ji"
   },
   {
-    "char_id": "zu",
+    "id": "zu",
     "kana": "ズ",
     "romanji": "zu"
   },
   {
-    "char_id": "ze",
+    "id": "ze",
     "kana": "ゼ",
     "romanji": "ze"
   },
   {
-    "char_id": "zo",
+    "id": "zo",
     "kana": "ゾ",
     "romanji": "zo"
   },
   {
-    "char_id": "da",
+    "id": "da",
     "kana": "ダ",
     "romanji": "da"
   },
   {
-    "char_id": "di",
+    "id": "di",
     "kana": "ヂ",
     "romanji": "ji"
   },
   {
-    "char_id": "du",
+    "id": "du",
     "kana": "ヅ",
     "romanji": "zu"
   },
   {
-    "char_id": "de",
+    "id": "de",
     "kana": "デ",
     "romanji": "de"
   },
   {
-    "char_id": "do",
+    "id": "do",
     "kana": "ド",
     "romanji": "do"
   },
   {
-    "char_id": "ba",
+    "id": "ba",
     "kana": "バ",
     "romanji": "ba"
   },
   {
-    "char_id": "bi",
+    "id": "bi",
     "kana": "ビ",
     "romanji": "bi"
   },
   {
-    "char_id": "bu",
+    "id": "bu",
     "kana": "ブ",
     "romanji": "bu"
   },
   {
-    "char_id": "be",
+    "id": "be",
     "kana": "ベ",
     "romanji": "be"
   },
   {
-    "char_id": "bo",
+    "id": "bo",
     "kana": "ボ",
     "romanji": "bo"
   },
   {
-    "char_id": "pa",
+    "id": "pa",
     "kana": "パ",
     "romanji": "pa"
   },
   {
-    "char_id": "pi",
+    "id": "pi",
     "kana": "ピ",
     "romanji": "pi"
   },
   {
-    "char_id": "pu",
+    "id": "pu",
     "kana": "プ",
     "romanji": "pu"
   },
   {
-    "char_id": "pe",
+    "id": "pe",
     "kana": "ペ",
     "romanji": "pe"
   },
   {
-    "char_id": "po",
+    "id": "po",
     "kana": "ポ",
     "romanji": "po"
   },
   {
-    "char_id": "vu",
+    "id": "vu",
     "kana": "ヴ",
     "romanji": "vu"
   },
   {
-    "char_id": "kya",
+    "id": "kya",
     "kana": "キャ",
     "romanji": "kya"
   },
   {
-    "char_id": "kyu",
+    "id": "kyu",
     "kana": "キュ",
     "romanji": "kyu"
   },
   {
-    "char_id": "kyo",
+    "id": "kyo",
     "kana": "キョ",
     "romanji": "kyo"
   },
   {
-    "char_id": "sya",
+    "id": "sya",
     "kana": "シャ",
     "romanji": "sha"
   },
   {
-    "char_id": "syu",
+    "id": "syu",
     "kana": "シュ",
     "romanji": "shu"
   },
   {
-    "char_id": "syo",
+    "id": "syo",
     "kana": "ショ",
     "romanji": "sho"
   },
   {
-    "char_id": "cya",
+    "id": "cya",
     "kana": "チャ",
     "romanji": "cha"
   },
   {
-    "char_id": "cyu",
+    "id": "cyu",
     "kana": "チュ",
     "romanji": "chu"
   },
   {
-    "char_id": "cyo",
+    "id": "cyo",
     "kana": "チョ",
     "romanji": "cho"
   },
   {
-    "char_id": "nya",
+    "id": "nya",
     "kana": "ニャ",
     "romanji": "nya"
   },
   {
-    "char_id": "nyu",
+    "id": "nyu",
     "kana": "ニュ",
     "romanji": "nyu"
   },
   {
-    "char_id": "nyo",
+    "id": "nyo",
     "kana": "ニョ",
     "romanji": "nyo"
   },
   {
-    "char_id": "hya",
+    "id": "hya",
     "kana": "ヒャ",
     "romanji": "hya"
   },
   {
-    "char_id": "hyu",
+    "id": "hyu",
     "kana": "ヒュ",
     "romanji": "hyu"
   },
   {
-    "char_id": "hyo",
+    "id": "hyo",
     "kana": "ヒョ",
     "romanji": "hyo"
   },
   {
-    "char_id": "mya",
+    "id": "mya",
     "kana": "ミャ",
     "romanji": "mya"
   },
   {
-    "char_id": "myu",
+    "id": "myu",
     "kana": "ミュ",
     "romanji": "myu"
   },
   {
-    "char_id": "myo",
+    "id": "myo",
     "kana": "ミョ",
     "romanji": "myo"
   },
   {
-    "char_id": "rya",
+    "id": "rya",
     "kana": "リャ",
     "romanji": "rya"
   },
   {
-    "char_id": "ryu",
+    "id": "ryu",
     "kana": "リュ",
     "romanji": "ryu"
   },
   {
-    "char_id": "ryo",
+    "id": "ryo",
     "kana": "リョ",
     "romanji": "ryo"
   },
   {
-    "char_id": "gya",
+    "id": "gya",
     "kana": "ギャ",
     "romanji": "gya"
   },
   {
-    "char_id": "gyu",
+    "id": "gyu",
     "kana": "ギュ",
     "romanji": "gyu"
   },
   {
-    "char_id": "gyo",
+    "id": "gyo",
     "kana": "ギョ",
     "romanji": "gyo"
   },
   {
-    "char_id": "zya",
+    "id": "zya",
     "kana": "ジャ",
     "romanji": "ja"
   },
   {
-    "char_id": "zyu",
+    "id": "zyu",
     "kana": "ジュ",
     "romanji": "ju"
   },
   {
-    "char_id": "zyo",
+    "id": "zyo",
     "kana": "ジョ",
     "romanji": "jo"
   },
   {
-    "char_id": "dya",
+    "id": "dya",
     "kana": "ヂャ",
     "romanji": "ja"
   },
   {
-    "char_id": "dyu",
+    "id": "dyu",
     "kana": "ヂュ",
     "romanji": "ju"
   },
   {
-    "char_id": "dyo",
+    "id": "dyo",
     "kana": "ヂョ",
     "romanji": "jo"
   },
   {
-    "char_id": "bya",
+    "id": "bya",
     "kana": "ビャ",
     "romanji": "bya"
   },
   {
-    "char_id": "byu",
+    "id": "byu",
     "kana": "ビュ",
     "romanji": "byu"
   },
   {
-    "char_id": "byo",
+    "id": "byo",
     "kana": "ヒョ",
     "romanji": "byo"
   },
   {
-    "char_id": "pya",
+    "id": "pya",
     "kana": "ピャ",
     "romanji": "pya"
   },
   {
-    "char_id": "pyu",
+    "id": "pyu",
     "kana": "ピュ",
     "romanji": "pyu"
   },
   {
-    "char_id": "pyo",
+    "id": "pyo",
     "kana": "ピョ",
     "romanji": "pyo"
   }

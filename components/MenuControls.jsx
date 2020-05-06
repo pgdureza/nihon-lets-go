@@ -1,24 +1,28 @@
 import React from 'react'
-import { KanaContext } from './Kana'
+import { DataContext } from './Data'
 
 const MenuControlsContext = React.createContext({})
 
 const MenuControlsProvider = ({ children }) => {
   const [show, setShow] = React.useState(false)
   const [characterIndex, setCharacterIndex] = React.useState(0)
-  const { kanaSet } = React.useContext(KanaContext)
+  const { items } = React.useContext(DataContext)
 
   const showAnswer = (e) => {
     e.preventDefault()
+    e.stopPropagation()
     setShow(true)
+    return false
   }
   const hideAnswer = (e) => {
     e.preventDefault()
+    e.stopPropagation()
     setShow(false)
+    return false
   }
 
   const next = () => {
-    if (characterIndex < kanaSet.length - 1) {
+    if (characterIndex < items.length - 1) {
       setCharacterIndex(characterIndex + 1)
     } else {
       setCharacterIndex(0)
@@ -27,13 +31,13 @@ const MenuControlsProvider = ({ children }) => {
 
   const prev = () => {
     if (characterIndex <= 0) {
-      setCharacterIndex(kanaSet.length - 1)
+      setCharacterIndex(items.length - 1)
     } else {
       setCharacterIndex(characterIndex - 1)
     }
   }
 
-  const character = kanaSet[characterIndex] || {}
+  const character = (items && items[characterIndex]) || {}
   return (
     <MenuControlsContext.Provider value={{ character, show, showAnswer, hideAnswer, next, prev }}>
       {children}

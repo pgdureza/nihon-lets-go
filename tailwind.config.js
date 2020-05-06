@@ -4,7 +4,8 @@ module.exports = {
     extend: {
       spacing: {
         xs: '0.125rem',
-        pull: 'calc(100vh - 6rem)',
+        pull: 'calc(100vh - 10rem)',
+        'bottom-menu': '10rem',
       },
       colors: {
         crimson: {

@@ -1,0 +1,47 @@
+[
+  {
+    "kana": "たべもの",
+    "romanji": "Tabemono",
+    "meaning": "Food"
+  },
+  {
+    "kana": "のみもの",
+    "romanji": "Nomimono",
+    "meaning": "Drinks"
+  },
+  {
+    "kana": "ごはん",
+    "romanji": "Gohan",
+    "meaning": "Rice/meal"
+  },
+  {
+    "kana": "みず",
+    "romanji": "Mizu",
+    "meaning": "Water/cold water"
+  },
+  {
+    "kana": "おゆ",
+    "romanji": "Oyu",
+    "meaning": "Hot water"
+  },
+  {
+    "kana": "にく",
+    "romanji": "Niku",
+    "meaning": "Meat"
+  },
+  {
+    "kana": "やさい",
+    "romanji": "Yasai",
+    "meaning": "Vegetable"
+  },
+  {
+    "kana": "さかな",
+    "romanji": "Sakana",
+    "meaning": "Fish"
+  },
+  {
+    "kana": "すし",
+    "romanji": "Sushi",
+    "meaning": "Sushi"
+  }
+]

@@ -1,24 +1,20 @@
 import React from 'react'
-import Answer from '../components/Answer'
-import { MenuControlsProvider } from '../components/MenuControls'
-import Menu from '../components/Menu'
-import { KanaProvider } from '../components/Kana'
-import Pulldown from '../components/Pulldown'
-import Nav from '../components/Nav'
+import Kana from '../components/Kana'
+import { useRouter } from 'next/router'
+import { DataContext } from '../components/Data'
+import Loading from '../components/Loading'
 
-const Kana = () => {
-  return (
-    <KanaProvider>
-      <MenuControlsProvider>
-        <div className="relative h-screen w-screen">
-          <Answer />
-          <Pulldown />
-          <Nav />
-          <Menu />
-        </div>
-      </MenuControlsProvider>
-    </KanaProvider>
-  )
+export default () => {
+  const router = useRouter()
+  const params = router.asPath.split(/\?/)[1]
+  const type = (params && params.split('=')[1]) || 'hiragana'
+
+  const { setType, items } = React.useContext(DataContext)
+  setType(type)
+
+  if (!items) {
+    return <Loading />
+  }
+
+  return <Kana />
 }
-
-export default Kana

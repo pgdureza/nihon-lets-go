@@ -1,0 +1,62 @@
+[
+  {
+    "kana": "わたし",
+    "romanji": "Watashi",
+    "meaning": "I/me"
+  },
+  {
+    "kana": "あなた",
+    "romanji": "Anata",
+    "meaning": "You"
+  },
+  {
+    "kana": "おかあさん",
+    "romanji": "Okaasan",
+    "meaning": "Mother"
+  },
+  {
+    "kana": "おとうさん",
+    "romanji": "Otousan",
+    "meaning": "Father"
+  },
+  {
+    "kana": "おじいさん",
+    "romanji": "Ojiisan",
+    "meaning": "Grandfather"
+  },
+  {
+    "kana": "おばあさん",
+    "romanji": "Obaasan",
+    "meaning": "Grandmother"
+  },
+  {
+    "kana": "おじさん",
+    "romanji": "Ojisan",
+    "meaning": "Uncle"
+  },
+  {
+    "kana": "おばさん",
+    "romanji": "Obasan",
+    "meaning": "Aunt"
+  },
+  {
+    "kana": "おにいさん",
+    "romanji": "Oniisan",
+    "meaning": "Older brother"
+  },
+  {
+    "kana": "おねえさん",
+    "romanji": "Oneesan",
+    "meaning": "Older sister"
+  },
+  {
+    "kana": "おとうと",
+    "romanji": "Otouto",
+    "meaning": "Younger brother"
+  },
+  {
+    "kana": "いもうと",
+    "romanji": "Imouto",
+    "meaning": "Younger sister"
+  }
+]

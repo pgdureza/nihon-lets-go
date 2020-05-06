@@ -1,0 +1,62 @@
+[
+  {
+    "kanji": "一",
+    "kana": "いち",
+    "romanji": "Ichi",
+    "meaning": "One"
+  },
+  {
+    "kanji": "二",
+    "kana": "に",
+    "romanji": "Ni",
+    "meaning": "Two"
+  },
+  {
+    "kanji": "三",
+    "kana": "さん",
+    "romanji": "San",
+    "meaning": "Three"
+  },
+  {
+    "kanji": "四",
+    "kana": "し/よん",
+    "romanji": "Shi/yon",
+    "meaning": "Four"
+  },
+  {
+    "kanji": "五",
+    "kana": "ご",
+    "romanji": "Go",
+    "meaning": "Five"
+  },
+  {
+    "kanji": "六",
+    "kana": "ろく",
+    "romanji": " Roku",
+    "meaning": "Six"
+  },
+  {
+    "kanji": "七",
+    "kana": "しち/なな",
+    "romanji": "　Shichi/nana",
+    "meaning": "Seven"
+  },
+  {
+    "kanji": "八",
+    "kana": "はち",
+    "romanji": "　Hachi",
+    "meaning": "Eight"
+  },
+  {
+    "kanji": "九",
+    "kana": "きゅう",
+    "romanji": "　Kyuu",
+    "meaning": "Nine"
+  },
+  {
+    "kanji": "十",
+    "kana": "じゅう",
+    "romanji": "Juu",
+    "meaning": "Ten"
+  }
+]

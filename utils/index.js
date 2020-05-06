@@ -7,7 +7,7 @@ const randomizeKana = (kana, filter) => {
 
   const filters = filter.split(',')
   const filteredList = [
-    ...kana.filter(({ char_id, romanji }) => filters.includes(char_id[0]) && romanji.length == 2),
+    ...kana.filter(({ id, romanji }) => filters.includes(id[0]) && romanji.length == 2),
     ...(filters.includes('vowels') ? kana.slice(0, 5) : []),
   ]
   return _.sampleSize(filteredList, filteredList.length)

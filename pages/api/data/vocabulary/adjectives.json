@@ -1,0 +1,102 @@
+[
+  {
+    "kana": "たのしい",
+    "romanji": "Tanoshii",
+    "meaning": "Happy"
+  },
+  {
+    "kana": "かなしい",
+    "romanji": "Kanashii",
+    "meaning": "Sad"
+  },
+  {
+    "kana": "たかい",
+    "romanji": "Takai",
+    "meaning": "High/expensive"
+  },
+  {
+    "kana": "ひくい",
+    "romanji": "Hikui",
+    "meaning": "Low"
+  },
+  {
+    "kana": "やすい",
+    "romanji": "Yasui",
+    "meaning": "Cheap"
+  },
+  {
+    "kana": "はやい",
+    "romanji": "Hayai",
+    "meaning": "Fast/early"
+  },
+  {
+    "kana": "おそい",
+    "romanji": "Osoi",
+    "meaning": "Slow"
+  },
+  {
+    "kana": "いそがしい",
+    "romanji": "Isogashii",
+    "meaning": "Busy"
+  },
+  {
+    "kana": "おいしい",
+    "romanji": "Oishii",
+    "meaning": "Delicious"
+  },
+  {
+    "kana": "まずい",
+    "romanji": "Mazui",
+    "meaning": "Awful"
+  },
+  {
+    "kana": "あまい",
+    "romanji": "Amai",
+    "meaning": "Sweet"
+  },
+  {
+    "kana": "しょっぱい",
+    "romanji": "Shoppai",
+    "meaning": "Salty"
+  },
+  {
+    "kana": "すっぱい",
+    "romanji": "Suppai",
+    "meaning": "Sour"
+  },
+  {
+    "kana": "にがい",
+    "romanji": "Nigai",
+    "meaning": "Bitter"
+  },
+  {
+    "kana": "からい",
+    "romanji": "Karai",
+    "meaning": "Hot/ spicy"
+  },
+  {
+    "kana": "あつい",
+    "romanji": "Atsui",
+    "meaning": "Hot"
+  },
+  {
+    "kana": "あたたかい",
+    "romanji": "Atatakai",
+    "meaning": "Warm"
+  },
+  {
+    "kana": "つめたい",
+    "romanji": "Tsumetai",
+    "meaning": "Cold"
+  },
+  {
+    "kana": "あかるい",
+    "romanji": "Akarui",
+    "meaning": "Bright"
+  },
+  {
+    "kana": "くらい",
+    "romanji": "Kurai",
+    "meaning": "Dark"
+  }
+]
