@@ -13,4 +13,15 @@ const randomizeKana = (kana, filter) => {
   return _.sampleSize(filteredList, filteredList.length)
 }
 
-export { randomizeKana }
+const queryStringtoObject = (queryString) => {
+  if (!queryString) {
+    return {}
+  }
+  const qs = queryString.startsWith('?') ? queryString.slice(1) : queryString
+  return qs.split('&').reduce((accum, curr) => {
+    const [key, value] = curr.split('=')
+    return key && value ? { ...accum, [key]: value } : accum
+  }, {})
+}
+
+export { randomizeKana, queryStringtoObject }
